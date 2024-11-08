@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "type": "single",
+        "price": 400,
+        "description": "A cozy room for solo travelers."
+    },
+    {
+        "id": 2,
+        "type": "double",
+        "price": 600,
+        "description": "A comfortable room for two."
+    },
+    {
+        "id": 3,
+        "type": "suite",
+        "price": 800,
+        "description": "A luxurious suite with all amenities."
+    }
+]
